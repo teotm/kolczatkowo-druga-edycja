@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.238.108.81
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1626798923913
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1629440191170
+  login: 1629440145541
+money: '0'
+last-account-name: kajbit555
+lastlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -213.60797102898988
+  y: 34.0
+  z: 628.3497292413826
+  yaw: -74.7030029296875
+  pitch: -31.949932098388672
+homes:
+  home:
+    world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+    x: -196.94259637830461
+    y: 47.0
+    z: 661.9322447672558
+    yaw: 152.24847412109375
+    pitch: 35.84999084472656
+logoutlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -155.22824026495655
+  y: 68.0
+  z: 685.6166304856307
+  yaw: -127.05221557617188
+  pitch: 0.7499722242355347

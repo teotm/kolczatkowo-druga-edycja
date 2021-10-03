@@ -1,0 +1,45 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.11.153.166
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1629051621073
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1630245554473
+  login: 1630245085596
+money: '0'
+logoutlocation:
+  world: 4943b462-99d1-40c6-8587-3f50dca59238
+  x: -29.630978691298285
+  y: 71.875
+  z: 42.05485009522328
+  yaw: -146.40487670898438
+  pitch: 32.550270080566406
+last-account-name: Posejdonek_69
+lastlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -298.43684788771094
+  y: 63.0
+  z: 336.4921688905435
+  yaw: 119.558837890625
+  pitch: 25.050016403198242
+homes:
+  home:
+    world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+    x: -298.19513392592734
+    y: 63.5625
+    z: 338.6356611976527
+    yaw: -84.41949462890625
+    pitch: 79.8000717163086
+nickname: Twuj_Curek

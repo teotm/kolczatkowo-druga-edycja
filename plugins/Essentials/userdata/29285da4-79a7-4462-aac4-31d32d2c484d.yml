@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.75.60.184
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1626945215049
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1628700538303
+  login: 1628700497268
+money: '0'
+last-account-name: LOPYRAX
+lastlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -267.69999998807907
+  y: 43.0
+  z: 213.6450402365749
+  yaw: -5.099666595458984
+  pitch: 6.900081634521484
+logoutlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -356.78264472758093
+  y: 73.0
+  z: 130.08241558762504
+  yaw: 169.3517303466797
+  pitch: 12.599981307983398
+homes:
+  home:
+    world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+    x: -299.2097602232392
+    y: 63.0
+    z: 332.113644091073
+    yaw: -87.7667236328125
+    pitch: 13.050525665283203

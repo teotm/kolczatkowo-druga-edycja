@@ -1,0 +1,37 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.216.122.62
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1628972551169
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1629135895970
+  login: 1629135576969
+money: '0'
+lastlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -250.42791906322012
+  y: 70.0
+  z: 231.27446799691234
+  yaw: 15.198554039001465
+  pitch: 6.388850688934326
+last-account-name: Stanford_2137
+logoutlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -359.5760698633742
+  y: 64.0
+  z: 375.31261794642444
+  yaw: -118.63079833984375
+  pitch: 25.20577049255371
+nickname: Twuj_Mame

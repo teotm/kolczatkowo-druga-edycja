@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 194.187.236.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1628276364157
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1632299739929
+  login: 1632299736344
+money: '0'
+last-account-name: ORI_FJ
+lastlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -883.6742024148643
+  y: 69.0
+  z: -485.5691314921613
+  yaw: 81.7952880859375
+  pitch: 10.492161750793457
+logoutlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -678.3190496554404
+  y: 60.0
+  z: -726.0596650696392
+  yaw: 88.38705444335938
+  pitch: 31.200456619262695
+homes:
+  home:
+    world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+    x: -682.6722456766366
+    y: 69.0
+    z: -726.4349159627453
+    yaw: 1.726348876953125
+    pitch: 45.63581085205078

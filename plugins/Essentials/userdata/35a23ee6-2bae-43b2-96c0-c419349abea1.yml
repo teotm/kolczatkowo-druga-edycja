@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.10.50.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1626778051755
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1626778822375
+  login: 1626776750496
+money: '0'
+last-account-name: CuteOfDeath
+lastlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -249.89466159128182
+  y: 68.22149363870948
+  z: 210.54327285704613
+  yaw: -134.40074157714844
+  pitch: 15.149682998657227
+homes:
+  home:
+    world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+    x: -374.2838904384105
+    y: 73.0
+    z: 21.248138996886205
+    yaw: -32.27899169921875
+    pitch: 32.39999771118164
+logoutlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -375.45901649877237
+  y: 73.0
+  z: 19.89107022229204
+  yaw: -132.59771728515625
+  pitch: 85.34991455078125

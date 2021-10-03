@@ -1,0 +1,36 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.239.83.17
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1631205724921
+  login: 1631205695141
+money: '0'
+last-account-name: RozekWiktor
+lastlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -176.5
+  y: 67.0
+  z: 210.5
+  yaw: 0.5355783104896545
+  pitch: 0.0
+logoutlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -283.6284692020829
+  y: 64.0
+  z: 352.2313516099303
+  yaw: -169.79986572265625
+  pitch: 62.84972381591797

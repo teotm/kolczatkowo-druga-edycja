@@ -1,0 +1,45 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.70.252.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1628960015125
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1630253608597
+  login: 1630253555688
+money: '0'
+last-account-name: Kaskudek
+lastlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -319.69999998807907
+  y: 35.0
+  z: 305.30000001192093
+  yaw: -119.7124252319336
+  pitch: -38.724021911621094
+logoutlocation:
+  world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+  x: -322.0376399446809
+  y: 58.0
+  z: 307.54709729984484
+  yaw: 61.17425537109375
+  pitch: 29.397058486938477
+nickname: Twoja_Syn
+homes:
+  home:
+    world: c94f6ae7-b36f-4c94-a71e-e2df906b26f1
+    x: -324.6538326498031
+    y: 62.0
+    z: 304.80890893636075
+    yaw: 176.21861267089844
+    pitch: 52.234745025634766
