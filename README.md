@@ -5,7 +5,8 @@
 # Żegnaj Kolczatkowo
 - Przestałem już kontynuować i hostować ten serwer, ponieważ Minecaft zaczyna mi się powoli nudzić. Postanowiłem, że zrobię udostępnie zapis serwera i światów. Nie chce mi się już dalej tego serwera kontynuować, ale na pierwszej było o wiele lepiej. Co prawda Minecraft zaczyna mi się nudzić, ale zawsze będzie grą, którą dobrze będę wspominał. Teraz robię i programuję moda (a nawet dwa) do Friday Night Funkin'.
 - [Kliknij, jak chcesz zobaczyć prace nad modem](https://github.com/teotm/some-trio-full-week) (mod jest po angielsku)
-- Serwer Minecraft nie jest w żaden sposób powiązany z modem, a w modzie nie będzie ten temat poruszony. 
+- Serwer Minecraft nie jest w żaden sposób powiązany z modem, a w modzie nie będzie ten temat poruszony.
+- Na wersję Minecrafta: 1.17.1
 - Seed serwera (jak chcesz mieć wszystko puste):
 ```
 3392790504813677491
